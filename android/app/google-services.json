@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1069697409641",
+    "project_id": "bloodbank-7a8d7",
+    "storage_bucket": "bloodbank-7a8d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069697409641:android:76018e5da2cd09888a78f8",
+        "android_client_info": {
+          "package_name": "com.example.scan_fill_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069697409641-jnv14agr1uigct3tg1a34gp04gpqa5mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGZyqC9rjT-wQZwHnC0UauYx3Mk7u6jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069697409641-jnv14agr1uigct3tg1a34gp04gpqa5mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069697409641-d64spcvbtnn657ac1cg9f4tno84givvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scanFillForm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069697409641:android:7ebb9cb50d7682188a78f8",
+        "android_client_info": {
+          "package_name": "com.smartbloodcare.smartbloodcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069697409641-jnv14agr1uigct3tg1a34gp04gpqa5mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGZyqC9rjT-wQZwHnC0UauYx3Mk7u6jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069697409641-jnv14agr1uigct3tg1a34gp04gpqa5mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069697409641-d64spcvbtnn657ac1cg9f4tno84givvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scanFillForm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
